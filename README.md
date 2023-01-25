@@ -1,3 +1,3 @@
 # testrepo
 testing trial
-its markdown file in writiing for first time 
+its markdown file in writting for first time 
